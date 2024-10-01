@@ -30,22 +30,28 @@ Finance_1 and Finance_2 datasets with over 39,000+ records.
 
 **--Key KPIs and Top Insights**
 
-  1.Year-wise Loan Amount
+  1.Year-wise Loan Amount:
+  
     Loan amounts grew significantly from $2.22M in 2007 to $260.50M in 2011.
 
-  2.Verified vs Non-verified Payments
+  2.Verified vs Non-verified Payments:
+  
     Verified payments: $219.89M (higher reliability) vs. Non-verified: $153.54M.
 
-  3.Grade-wise Revolving Balance
+  3.Grade-wise Revolving Balance:
+  
     Grade A has the lowest balance (lower risk), while Grade G has the highest (higher risk).
 
-  4.State-wise Loan Activity
+  4.State-wise Loan Activity:
+  
     Highest in California (7,099 loans), New York (3,812 loans), and Florida (2,866 loans).
 
-  5.Month-wise Loan Status
+  5.Month-wise Loan Status:
+  
     Peak loan applications in May (4,285 loans); lowest in June (2,933 loans).
 
-  6.Loan Amount by Purpose
+  6.Loan Amount by Purpose:
+  
     Most loans are for debt consolidation, followed by credit card and home improvement loans.
 
 **--Visualizations**
