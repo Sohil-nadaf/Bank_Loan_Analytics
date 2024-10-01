@@ -1,3 +1,5 @@
+![Screenshot 2024-10-02 005757](https://github.com/user-attachments/assets/924f1a0e-b643-41fb-affa-35127d3fcb50)
+
 **Bank Loan Data Analysis Project**
 
 **--Overview**
@@ -56,9 +58,7 @@ Finance_1 and Finance_2 datasets with over 39,000+ records.
 
 **--Visualizations**
 
-  1.Dashboards created using Excel, Power BI, and Tableau to display KPIs and insights.
-
-  2.Screenshots of visualizations uploaded.
+  Dashboards created using Excel, Power BI, and Tableau to display KPIs and insights.
 
 **--SQL Queries**
 
@@ -66,12 +66,13 @@ Finance_1 and Finance_2 datasets with over 39,000+ records.
 
 **--Challenges & Solutions**
 
-    Data inconsistencies: Stricter verification protocols.
-    
-    Seasonal trends: Tailored loan products based on borrowing patterns.
-    
-    Risk management: Risk-based pricing for high-risk loans.
+   1.Data inconsistencies: Stricter verification protocols.
+   
+   2.Seasonal trends: Tailored loan products based on borrowing patterns.
+   
+   3.Risk management: Risk-based pricing for high-risk loans.
 
 **--Conclusion**
 
-    The analysis offers actionable insights to enhance loan approval processes, reduce risks, and implement state-specific lending strategies.
+  The analysis offers actionable insights to enhance loan approval processes, reduce risks, 
+  and implement state-specific lending strategies.
